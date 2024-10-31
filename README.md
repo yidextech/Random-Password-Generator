@@ -2,3 +2,5 @@
 ### Options to include
 #### Numbers
 #### Uppercase letters
+#### lowercase letters
+
